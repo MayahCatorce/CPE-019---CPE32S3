@@ -7,5 +7,5 @@
 ### Horoscope: Cancer
 
 ## Introduction:
-### Hello everyone! I'm Mayah Mae A. Catorce, a passionate 3rd-year Computer Engineering student. I embarked on this journey in pursuit of challenging my intellectual boundaries and enhancing my overall well-being. Coding brings me joy, and I'm excited to share this learning experience with all of you. Happy coding, everyone!
+### Hi everyone, I am a 3rd year Computer Engineering student. I chose this course because. . . i-i want to challenge my well-being. Happy coding everyone! 
 
