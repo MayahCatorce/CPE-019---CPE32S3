@@ -1,14 +1,14 @@
 # CPE-019---CPE32S3
 
-##Course/Section: CPE 019 - BSCPE32S3 
+# Course/Section: CPE 019 - BSCPE32S3 
 <br>
-###Name: Mayah Mae A. Catrce
+# Name: Mayah Mae A. Catorce
 <br>
-###Age: 21 years old
+# Age: 21 years old
 <br>
-###Birthday: July 16, 2002
+# Birthday: July 16, 2002
 <br>
-###Horoscope: Cancer
+# Horoscope: Cancer
 <br>
 Introduction:
 <br>
