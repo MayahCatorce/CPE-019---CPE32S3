@@ -1,11 +1,1 @@
-## CPE-019---CPE32S3
-
-### Course/Section: CPE 019 - BSCPE32S3 
-### Name: Mayah Mae A. Catorce
-### Age: 21 years old
-### Birthday: July 16, 2002
-### Horoscope: Cancer
-
-## Introduction:
-### Hi everyone, I am a 3rd year Computer Engineering student. I chose this course because. . . i-i want to challenge my well-being. Happy coding everyone! 
-
+![Hello](https://github.com/MayahCatorce/CPE-019---CPE32S3/assets/157819677/572d3635-a70c-48e4-a8c9-cfd58c4eb5e5)
